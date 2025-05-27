@@ -1,0 +1,9 @@
+Question|Answer
+I can hold multiple functions, but I'm not a list. What am I?|class
+I start a comment in C++. What am I?|//
+I am the number of bits in a byte. What am I?|8
+What has to be broken before you can use it?|egg
+What is full of holes but still holds water?|sponge
+What gets wetter as it dries?|towel
+What has a head and a tail but no body?|coin
+What can run but never walks?|water

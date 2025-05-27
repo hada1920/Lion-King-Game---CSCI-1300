@@ -1,0 +1,14 @@
+Desert storm sweeps through the territory|2|4|-500
+Fatigue from intense training with pride warriors|0|3|-200
+Challenging night watch duty under pitch-black conditions|1|2|-400
+Extra energy from bountiful season|1|0|800
+Observed a rare natural phenomenon|0|0|600
+Gained wisdom from observing Rafiki's rituals|1|0|500
+Hyenas threatened the pride's territory|2|5|-300
+Found a secret watering hole|2|0|400
+Survived a dangerous confrontation|0|1|700
+Successfully led a hunting party|1|0|600
+Caught a cold from the rain|2|4|-200
+Fell into a ravine|0|5|-400
+Met with elders and gained knowledge|0|0|500
+Participated in a ceremonial gathering|1|0|400

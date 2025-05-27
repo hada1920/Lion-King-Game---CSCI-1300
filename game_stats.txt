@@ -1,0 +1,29 @@
+=== Lion King Game Statistics ===
+
+Winner: Hannah (Apollo)
+Final Score: 55000
+
+Player: Hannah
+Character: Apollo (Age: 5)
+Path: Cub Training
+Moves Taken: 19
+Advisor: Rafiki
+Final Stats:
+  Pride Points: 15000
+  Stamina: 1000
+  Strength: 1000
+  Wisdom: 2000
+  Final Score: 55000
+
+Player: player
+Character: Mane (Age: 8)
+Path: Straight to Pride Lands
+Moves Taken: 19
+Advisor: None
+Final Stats:
+  Pride Points: 25000
+  Stamina: 800
+  Strength: 1100
+  Wisdom: 800
+  Final Score: 52000
+
